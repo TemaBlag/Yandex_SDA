@@ -1,6 +1,6 @@
 # Yandex_SDA
 
-Repository for labs from courses at Yandex School of Data Analyses
+🎓Repository for labs from courses at Yandex School of Data Analyses
 
 ---
 
