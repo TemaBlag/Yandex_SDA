@@ -13,6 +13,6 @@
 - [contest](https://github.com/TemaBlag/Yandex_SDA/tree/main/ML_part1/contest_CNN) - Контест. Сверточные нейронные сети (_Contest CNN_)
 
 ---
-Recommended literature
+**Recommended literature**
 
 Yandex handbook - [Учебник по машинному обучению](https://education.yandex.ru/handbook/ml)
